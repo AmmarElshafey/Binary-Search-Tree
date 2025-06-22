@@ -1,4 +1,4 @@
-# 🌲 Binary Search Tree (BST) in C++
+### 🌲 Binary Search Tree (BST) in C++
 
 A simple, well-structured implementation of a **Binary Search Tree (BST)** using C++. This project demonstrates how to insert, delete, search, and traverse nodes in a BST, along with memory cleanup using destructors.
 
@@ -60,4 +60,7 @@ You’ll be prompted to:
 - Standard C++ compiler (e.g., g++, clang++)
 
 ---
+## ✍️ Author 
+- Ammar Said El-shafey
+- Computer Science Student 
 
